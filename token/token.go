@@ -15,7 +15,7 @@ const (
 	INT = "INT"
 
 	ASSIGN = "="
-	PlUS = "+"
+	PLUS = "+"
 
 	COMMA = ","
 	SEMICOLON = ";"
